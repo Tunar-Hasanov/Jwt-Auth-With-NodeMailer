@@ -28,5 +28,7 @@ Bu layihə, istifadəçilərin qeydiyyatdan keçməsi, giriş etməsi və e-poç
 1. **Bu repozitoriyanı klonlayın:**
 
    ```bash
-   git clone https://github.com/sizin-username/jwt-authentication.git
-   cd jwt-authentication
+   git clone https://github.com/Tunar-Hasanov/Jwt-Auth-With-NodeMailer
+   cd Jwt-Auth-With-NodeMailer-Main
+   npm i
+   node server.js
